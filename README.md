@@ -1,1 +1,1 @@
-[Documentation Wiki](https://github.com/teophilsimao/brotherhood.wiki.git)
+[Documentation Wiki](https://github.com/teophilsimao/brotherhood/wiki)
